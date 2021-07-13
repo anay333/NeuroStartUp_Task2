@@ -2,7 +2,7 @@
 tmp/
 
 # файлы, заканчивающиеся суффиксами _old, _backup, Thumbs.db и .DS_Store
-Thumbs.db
+*Thumbs.db
 
 *_old
 
