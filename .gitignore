@@ -1,11 +1,11 @@
 # папка tmp
-tmp/
+/tmp/
 
 # файлы, заканчивающиеся суффиксами _old, _backup, Thumbs.db и .DS_Store
 Thumbs.db
 
-*_old
+_old
 
-*_backup
+_backup
 
 *.DS_Store
